@@ -1,0 +1,24 @@
+{
+  "name": "ddubs-sentry",
+  "version": "1.0.0",
+  "description": "Official bootstrap for running your own [Sentry](https://sentry.io/) with [Docker](https://www.docker.com/).",
+  "main": "demo_app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getsentry/onpremise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getsentry/onpremise/issues"
+  },
+  "homepage": "https://github.com/getsentry/onpremise#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "raven": "^0.12.1"
+  }
+}
