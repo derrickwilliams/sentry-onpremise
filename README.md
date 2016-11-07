@@ -1,4 +1,4 @@
-*** checkout SETUP.md for short setup instructions ***
+*** checkout [SETUP.md](https://github.com/derrickwilliams/sentry-onpremise/blob/master/SETUP.md) for short setup instructions ***
 
 # Sentry On-Premise
 
