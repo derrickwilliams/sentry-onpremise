@@ -1,3 +1,5 @@
+*** checkout [SETUP.md](https://github.com/derrickwilliams/sentry-onpremise/blob/master/SETUP.md) for short setup instructions ***
+
 # Sentry On-Premise
 
 Official bootstrap for running your own [Sentry](https://sentry.io/) with [Docker](https://www.docker.com/).
